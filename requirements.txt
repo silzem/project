@@ -1,0 +1,25 @@
+Requirements for running the code of this project:
+
+Software:
+- Python 3.12
+- JupyterLab, Colab or VS code
+
+Libraries:
+- Core:
+    - pandas
+    - matplotlib
+    - numpy
+
+- Geospatial:
+    - geopandas
+
+- Interactive map:
+    - folium
+
+- Utilities:
+    - requests
+    - time
+    - io (StringIO)
+    - datetime (datetime, timedelta)
+    - os
+
